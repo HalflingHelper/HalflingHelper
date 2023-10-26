@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Calvin!</h1>
 <h3 align="center">A passionate computer science and math student from Indiana.</h3>
 
-- 🔭 I’m currently working on **building a crossword solver**
+- 🔭 I’m currently working on **Intertwined Finance**
 
-- 🌱 I’m currently learning **C++, Haskell, and Rockclimbing**
+- 🌱 I’m currently learning **Rust and Rockclimbing**
 
 - 👨‍💻 My favorite projects are available at [https://halflinghelper.github.io/](https://halflinghelper.github.io/)
 
